@@ -5,6 +5,7 @@ VC schema catalog for Interoperability within Atala Prism
 - [Specifications](#Specifications)
 - [Education](#Education)
 - [Related documents and tutorials](#Related-documents-and-tutorials)
+- [Suply chain](#Supply-chain)
 
 ## Specifications
 - [Verifiable Credentials Data Model v1.1](https://www.w3.org/TR/vc-data-model/)
@@ -15,13 +16,18 @@ VC schema catalog for Interoperability within Atala Prism
 
 
 ## Education
-- IMS Global [Open Badges v2.0 ](https://www.imsglobal.org/sites/default/files/Badges/OBv2p0Final/index.html)
-- Schema.org [EducationalOccupationalCredential](https://schema.org/EducationalOccupationalCredential)
+- IMS Global: [Open Badges v2.0 ](https://www.imsglobal.org/sites/default/files/Badges/OBv2p0Final/index.html)
+- Schema.org: [EducationalOccupationalCredential](https://schema.org/EducationalOccupationalCredential)
+- EBSI European Blockchain Services Infrastructure: [ESBI Education Verifiable Accreditation records](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-muti-uni-pilot/education-verifiable-accreditation-records/2022-03/schema.json)
 
 
 
 ## Healthcare
 
+
+
+## Supply chain
+- W3C: [Traceability Vocabulary v0.0 - A vocabulary for traceability in supply chains](https://w3c-ccg.github.io/traceability-vocab/#BillOfLadingCertificate)
 
 
 ## Related documents and tutorials
