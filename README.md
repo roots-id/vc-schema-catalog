@@ -49,6 +49,7 @@ VC schema catalog for Interoperability within Atala Prism
 
 ## Supply chain
 - W3C: [Traceability Vocabulary v0.0 - A vocabulary for traceability in supply chains](https://w3c-ccg.github.io/traceability-vocab/#BillOfLadingCertificate)
+- GS1 [GS1 General Specifications](https://www.gs1.org/docs/barcodes/GS1_General_Specifications.pdf)
 
 ## Miscellaneous
 - RSK Infrastructure Framework: [EmailCredentialSchema](https://rsksmart.github.io/vc-json-schemas/EmailCredentialSchema/v1.0/schema.json)
