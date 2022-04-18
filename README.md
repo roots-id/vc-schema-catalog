@@ -30,6 +30,10 @@ VC schema catalog for Interoperability within Atala Prism
 ## Healthcare
 - COVID-19 Credentials Initiative: [CCI Schema Reference Documents](https://drive.google.com/drive/u/1/folders/1h4vF79KzUY6KipBt3A6kMEboiqcSYtv7)
 - Schema.org: [MedicalEntity](https://schema.org/MedicalEntity)
+- HL7 FHIR: [Clinical](http://hl7.org/fhir/clinicalsummary-module.html)
+- HL7 FHIR: [Diagnostics](http://hl7.org/fhir/diagnostics-module.html)
+- HL7 FHIR: [Medications](http://hl7.org/fhir/medications-module.html)
+- HL7 FHIR: [Financial](http://hl7.org/fhir/financial-module.html)
 
 ## Legal
 - EBSI: [Legal Entity Verifiable ID](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-vid/legal-entity)
