@@ -28,11 +28,11 @@ VC schema catalog for Interoperability within Atala Prism
 
 
 ## Healthcare
+- COVID-19 Credentials Initiative: [CCI Schema Reference Documents:](https://drive.google.com/drive/u/1/folders/1h4vF79KzUY6KipBt3A6kMEboiqcSYtv7)
 
 
 ## Legal
 - EBSI: [Legal Entity Verifiable ID](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-vid/legal-entity)
-- 
 
 
 ## Finance
