@@ -53,5 +53,6 @@ VC schema catalog for Interoperability within Atala Prism
 ## Related documents
 - [Categorizing Verifiable Credentials](https://www.evernym.com/blog/categorizing-verifiable-credentials/)
 - [EBSI Data Models and Schemas](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Data+Models+and+Schemas)
+- [Schema.org](https://schema.org)
 
 
