@@ -5,7 +5,7 @@ VC schema catalog for Interoperability within Atala Prism
 1. [Specifications](#Specifications)
 2. [Education](#Education)
 3. [Related documents and tutorials](#Related-documents)
-4. [Suply chain](#Supply-chain)
+4. [Supply chain](#Supply-chain)
 5. [Legal](#Legal)
 6. [Finance](#Finance)
 7. [Miscellaneous](#Miscellaneous)
@@ -23,8 +23,7 @@ VC schema catalog for Interoperability within Atala Prism
 - IMS Global: [Open Badges v2.0 ](https://www.imsglobal.org/sites/default/files/Badges/OBv2p0Final/index.html)
 - Schema.org: [EducationalOccupationalCredential](https://schema.org/EducationalOccupationalCredential)
 - EBSI: [Education Verifiable Accreditation records](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-muti-uni-pilot/education-verifiable-accreditation-records)
-- EBSI [Verifiable Diploma](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-muti-uni-pilot/verifiable-diploma)
-- 
+- EBSI: [Verifiable Diploma](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-muti-uni-pilot/verifiable-diploma)
 
 
 
@@ -32,7 +31,7 @@ VC schema catalog for Interoperability within Atala Prism
 
 
 ## Legal
-- EBSI [Legal Entity Verifiable ID](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-vid/legal-entity)
+- EBSI: [Legal Entity Verifiable ID](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-vid/legal-entity)
 - 
 
 
@@ -44,8 +43,8 @@ VC schema catalog for Interoperability within Atala Prism
 - W3C: [Traceability Vocabulary v0.0 - A vocabulary for traceability in supply chains](https://w3c-ccg.github.io/traceability-vocab/#BillOfLadingCertificate)
 
 ## Miscellaneous
-- RSK Infrastructure Framework [EmailCredentialSchema](https://rsksmart.github.io/vc-json-schemas/EmailCredentialSchema/v1.0/schema.json)
-- RSK Infrastructure Framework [PhoneCredentialSchema](https://rsksmart.github.io/vc-json-schemas/PhoneCredentialSchema/v1.0/schema.json)
+- RSK Infrastructure Framework: [EmailCredentialSchema](https://rsksmart.github.io/vc-json-schemas/EmailCredentialSchema/v1.0/schema.json)
+- RSK Infrastructure Framework: [PhoneCredentialSchema](https://rsksmart.github.io/vc-json-schemas/PhoneCredentialSchema/v1.0/schema.json)
 - EBSI: [Natural Person Verifiable Id](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-vid/natural-person)
 
 
