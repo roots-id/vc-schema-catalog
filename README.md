@@ -29,14 +29,16 @@ VC schema catalog for Interoperability within Atala Prism
 
 ## Healthcare
 - COVID-19 Credentials Initiative: [CCI Schema Reference Documents](https://drive.google.com/drive/u/1/folders/1h4vF79KzUY6KipBt3A6kMEboiqcSYtv7)
-
+- Schema.org: [MedicalEntity](https://schema.org/MedicalEntity)
 
 ## Legal
 - EBSI: [Legal Entity Verifiable ID](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-vid/legal-entity)
+- Schema.org: [Organization](https://schema.org/Organization)
 
 
 ## Finance
-
+- GLEI: [Level 1 Data: LEI-CDF Format 3.1](https://www.gleif.org/en/about-lei/common-data-file-format/current-versions/level-1-data-lei-cdf-3-1-format)
+- GLEI: [Level 2 Data: Relationship Record (RR) CDF Format 2.1](https://www.gleif.org/en/about-lei/common-data-file-format/current-versions/level-2-data-relationship-record-rr-cdf-2-1-format)
 
 
 ## Supply chain
@@ -46,7 +48,6 @@ VC schema catalog for Interoperability within Atala Prism
 - RSK Infrastructure Framework: [EmailCredentialSchema](https://rsksmart.github.io/vc-json-schemas/EmailCredentialSchema/v1.0/schema.json)
 - RSK Infrastructure Framework: [PhoneCredentialSchema](https://rsksmart.github.io/vc-json-schemas/PhoneCredentialSchema/v1.0/schema.json)
 - EBSI: [Natural Person Verifiable Id](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-vid/natural-person)
-
 
 
 ## Related documents
