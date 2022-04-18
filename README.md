@@ -2,13 +2,13 @@
 VC schema catalog for Interoperability within Atala Prism
 
 ## Table of contents
-- [Specifications](#Specifications)
-- [Education](#Education)
-- [Related documents and tutorials](#Related-documents)
-- [Suply chain](#Supply-chain)
-- [Legal](#Legal)
-- [Finance](#Finance)
-- [Miscellaneous](#Miscellaneous)
+1. [Specifications](#Specifications)
+2. [Education](#Education)
+3. [Related documents and tutorials](#Related-documents)
+4. [Suply chain](#Supply-chain)
+5. [Legal](#Legal)
+6. [Finance](#Finance)
+7. [Miscellaneous](#Miscellaneous)
 
 ## Specifications
 - [Verifiable Credentials Data Model v1.1](https://www.w3.org/TR/vc-data-model/)
