@@ -39,7 +39,10 @@ VC schema catalog for Interoperability within Atala Prism
 - EBSI: [Legal Entity Verifiable ID](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-vid/legal-entity)
 - EBSI: [Natural Person Verifiable Id](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-vid/natural-person)
 - Schema.org: [Organization](https://schema.org/Organization)
+- Schema.org: [Government Organization](https://schema.org/GovernmentOrganization)
 - Schema.org: [Person](https://schema.org/Person)
+- Schema.org: [Corporation](https://schema.org/Corporation)
+- Schema.org: [Local Business](https://schema.org/LocalBusiness)
 
 
 ## Finance
@@ -54,7 +57,8 @@ VC schema catalog for Interoperability within Atala Prism
 ## Miscellaneous
 - RSK Infrastructure Framework: [EmailCredentialSchema](https://rsksmart.github.io/vc-json-schemas/EmailCredentialSchema/v1.0/schema.json)
 - RSK Infrastructure Framework: [PhoneCredentialSchema](https://rsksmart.github.io/vc-json-schemas/PhoneCredentialSchema/v1.0/schema.json)
-
+- Schema.org: [Software Package](https://schema.org/SoftwarePackage)
+- Schema.org: [Web Application](https://schema.org/WebApplication)
 
 
 ## Related documents
