@@ -1,5 +1,5 @@
 # Verifiable Credential Schema Catalog
-VC schema catalog for Interoperability within Atala Prism
+Verifiable Credential schema catalog for [Interoperability within Atala Prism](https://cardano.ideascale.com/c/idea/382285)
 
 ## Table of contents
 1. [Specifications](#Specifications)
