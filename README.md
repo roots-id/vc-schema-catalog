@@ -48,6 +48,7 @@ Verifiable Credential schema catalog for [Interoperability within Atala Prism](h
 ## Finance
 - GLEI: [Level 1 Data: LEI-CDF Format 3.1](https://www.gleif.org/en/about-lei/common-data-file-format/current-versions/level-1-data-lei-cdf-3-1-format)
 - GLEI: [Level 2 Data: Relationship Record (RR) CDF Format 2.1](https://www.gleif.org/en/about-lei/common-data-file-format/current-versions/level-2-data-relationship-record-rr-cdf-2-1-format)
+- Schema.org: [Markup for Banks and Financial Institutions](https://schema.org/docs/financial.html)
 
 
 ## Supply chain
