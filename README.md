@@ -34,6 +34,7 @@ Verifiable Credential schema catalog for [Interoperability within Atala Prism](h
 - HL7 FHIR: [Diagnostics](http://hl7.org/fhir/diagnostics-module.html)
 - HL7 FHIR: [Medications](http://hl7.org/fhir/medications-module.html)
 - HL7 FHIR: [Financial](http://hl7.org/fhir/financial-module.html)
+- World Health Organization: [Family of International Classifications](https://www.who.int/standards/classifications)
 
 ## Legal
 - EBSI: [Legal Entity Verifiable ID](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-vid/legal-entity)
