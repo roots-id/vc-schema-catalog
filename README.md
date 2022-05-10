@@ -55,6 +55,7 @@ Verifiable Credential schema catalog for [Interoperability within Atala Prism](h
 ## Supply chain
 - W3C: [Traceability Vocabulary v0.0 - A vocabulary for traceability in supply chains](https://w3c-ccg.github.io/traceability-vocab/#BillOfLadingCertificate)
 - GS1 [GS1 General Specifications](https://www.gs1.org/docs/barcodes/GS1_General_Specifications.pdf)
+- RMI [Responsible Minerals Initiative Blockchain Guidelines](https://www.responsiblemineralsinitiative.org/media/docs/RMI%20Blockchain%20Guidelines%20-%20Second%20Edition%20-%20March%202020%20FINAL.pdf)
 
 ## Miscellaneous
 - RSK Infrastructure Framework: [EmailCredentialSchema](https://rsksmart.github.io/vc-json-schemas/EmailCredentialSchema/v1.0/schema.json)
