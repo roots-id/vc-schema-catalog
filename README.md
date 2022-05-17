@@ -1,6 +1,9 @@
 # Verifiable Credential Schema Catalog
 Verifiable Credential schema catalog for [Interoperability within Atala Prism](https://cardano.ideascale.com/c/idea/382285)
 
+In the following repository we are consolidating Verifiable Credential Schemas for several verticals or use cases. The goal is to facilitate developers of Self-Sovereign Identity systems to find existing schemas that adapt closely to their project needs, promoting the building of interoperable systems from ground zero.
+The following is a curated compilation of links that point to entities that produced the schemas. This is a dynamic and ongoing project. We encourage anybody to complement that repository with additional schemas by opening and issue or PR.
+
 ## Table of contents
 1. [Specifications](#Specifications)
 2. [Education](#Education)
