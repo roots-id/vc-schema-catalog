@@ -2,7 +2,7 @@
 
 In the following repository we are consolidating **Verifiable Credential Schemas** for several vertical industries or use cases. The goal is to facilitate developers of Self-Sovereign Identity systems to locate existing schemas that match closely with their project needs, promoting the building of **interoperable** systems from ground zero.
 
-It's a curated compilation of links pointing to the original schema and creators. This is a dynamic and ongoing project. We encourage everybody to contribute by complementing this repository with additional schemas by opening and [Issue](https://github.com/roots-id/vc-schema-catalog/issues) or [Pull request](https://github.com/roots-id/vc-schema-catalog/pulls).
+It's a curated compilation of links pointing to the original schema and creators. This is a dynamic and ongoing project. We encourage everybody to contribute by complementing this repository with additional schemas by opening an [Issue](https://github.com/roots-id/vc-schema-catalog/issues) or [Pull request](https://github.com/roots-id/vc-schema-catalog/pulls).
 
 This work is part of the funded Catalyst proposal [Interoperability within Atala Prism](https://cardano.ideascale.com/c/idea/382285).
 
