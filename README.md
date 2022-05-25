@@ -29,7 +29,7 @@ This work is part of the funded Catalyst proposal [Interoperability within Atala
 - Schema.org: [EducationalOccupationalCredential](https://schema.org/EducationalOccupationalCredential)
 - EBSI: [Education Verifiable Accreditation records](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-muti-uni-pilot/education-verifiable-accreditation-records)
 - EBSI: [Verifiable Diploma](https://ec.europa.eu/digital-building-blocks/code/projects/EBSI/repos/json-schema/browse/schemas/ebsi-muti-uni-pilot/verifiable-diploma)
-
+- W3C: [Modeling Educational Verifiable Credentials](https://w3c-ccg.github.io/vc-ed-models/)
 
 
 ## Healthcare
