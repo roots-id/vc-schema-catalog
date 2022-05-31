@@ -67,7 +67,6 @@ This work is part of the funded Catalyst proposal [Interoperability within Atala
 - RSK Infrastructure Framework: [PhoneCredentialSchema](https://rsksmart.github.io/vc-json-schemas/PhoneCredentialSchema/v1.0/schema.json)
 - Schema.org: [Software Package](https://schema.org/SoftwarePackage)
 - Schema.org: [Web Application](https://schema.org/WebApplication)
-- KILT Protocol [Web site](kilt.io)
 - KILT Protocol [Registered ctypes](https://github.com/KILTprotocol/ctype-index)
 
 
@@ -75,5 +74,6 @@ This work is part of the funded Catalyst proposal [Interoperability within Atala
 - [Categorizing Verifiable Credentials](https://www.evernym.com/blog/categorizing-verifiable-credentials/)
 - [EBSI Data Models and Schemas](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Data+Models+and+Schemas)
 - [Schema.org](https://schema.org)
+- [KILT Protocol whitepaper](https://www.kilt.io/wp-content/uploads/2020/01/KILT-White-Paper-v2020-Jan-15.pdf)
 
 
