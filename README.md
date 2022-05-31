@@ -67,6 +67,7 @@ This work is part of the funded Catalyst proposal [Interoperability within Atala
 - RSK Infrastructure Framework: [PhoneCredentialSchema](https://rsksmart.github.io/vc-json-schemas/PhoneCredentialSchema/v1.0/schema.json)
 - Schema.org: [Software Package](https://schema.org/SoftwarePackage)
 - Schema.org: [Web Application](https://schema.org/WebApplication)
+- KILT Protocol [Registered Ctypes](https://github.com/KILTprotocol/ctype-index)
 
 
 ## Related documents
