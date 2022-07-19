@@ -68,6 +68,7 @@ This work is part of the funded Catalyst proposal [Interoperability within Atala
 - Schema.org: [Software Package](https://schema.org/SoftwarePackage)
 - Schema.org: [Web Application](https://schema.org/WebApplication)
 - KILT Protocol [Registered ctypes](https://github.com/KILTprotocol/ctype-index)
+- [Serto Schemas](https://schemas.serto.id)
 
 
 ## Related documents
