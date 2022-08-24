@@ -62,6 +62,11 @@ This work is part of the funded Catalyst proposal [Interoperability within Atala
 - GS1 [GS1 General Specifications](https://www.gs1.org/docs/barcodes/GS1_General_Specifications.pdf)
 - RMI [Responsible Minerals Initiative Blockchain Guidelines](https://www.responsiblemineralsinitiative.org/media/docs/RMI%20Blockchain%20Guidelines%20-%20Second%20Edition%20-%20March%202020%20FINAL.pdf)
 
+
+## Examples 
+- W3C Examples: [vc-examples](https://github.com/w3c-ccg/vc-examples)
+
+
 ## Miscellaneous
 - RSK Infrastructure Framework: [EmailCredentialSchema](https://rsksmart.github.io/vc-json-schemas/EmailCredentialSchema/v1.0/schema.json)
 - RSK Infrastructure Framework: [PhoneCredentialSchema](https://rsksmart.github.io/vc-json-schemas/PhoneCredentialSchema/v1.0/schema.json)
